@@ -5,6 +5,7 @@ __pycache__
 .ipynb_checkpoints
 
 .vscode
+*.swp
 
 # MacOS metadata
 .DS_Store
@@ -18,10 +19,10 @@ __pycache__
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.toc
 *.glo
 *.ilg
 *.ist
-*.toc
 
 # pdfs for which we have the latex sources
 Preliminary-work/notes.pdf
